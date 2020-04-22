@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://www.zhangpeng.fun/" target="_blank">
-	<img src="https://www.zhangpeng.fun/upload/2019/12/timg-747430f3d93543edb6bdfefcd6550b1b.jfif" width="100"/>
+	<img src="https://github.com/zhangpengpeng69/ZPeng-s-Blog/blob/master/images/readme/timg.jpg" width="100"/>
 </a>
 </p>
 
@@ -38,8 +38,10 @@
 
 - [面试题](#面试题)
 
- 
+- [java](#java)
+
 - [关于我](#关于我)
+
 - [说明](#说明)
 
 
@@ -59,12 +61,11 @@
 
 ## 数据库
 
-## 面试题
-
-## 工具
-
 ## 算法
 
+## 面试题
+
+## java
 
 
 ## 关于我
@@ -79,9 +80,9 @@
 Github：[https://github.com/zhangpengpeng69](https://github.com/zhangpengpeng69)<br/>
 
 博客：[https://www.zhangpeng.fun/](https://www.zhangpeng.fun/)<br/>
-<a href="https://github.com/Gene1994">
-    <img src="https://www.zhangpeng.fun/upload/2020/04/%E5%8D%9A%E5%AE%A2%E7%95%8C%E9%9D%A2-2f67103821c440b5a6ee996b4af6bc04.png" >
-</a>
+
+![image](https://github.com/zhangpengpeng69/ZPeng-s-Blog/blob/master/images/readme/%E5%8D%9A%E5%AE%A2%E7%95%8C%E9%9D%A2.png)
+
 Github博客：[https://github.com/zhangpengpeng69/ZPeng-s-Blog](https://github.com/zhangpengpeng69/ZPeng-s-Blog)<br/>
 
 ## 说明
