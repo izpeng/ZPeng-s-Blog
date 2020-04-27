@@ -1,7 +1,7 @@
 <h1 align="center"><a href="https://github.com/zhangpengpeng69/ZPeng-s-Blog" target="_blank">ZPeng'sBlog</a></h1>
 
 >个人博客站点：[https://www.zhangpeng.fun/](https://www.zhangpeng.fun/ "https://www.zhangpeng.fun/")<br/>
-> [个人博客](https://bbs.halo.run) | [QQ 交流群](https://jq.qq.com/?_wv=1027&k=5VyKjuK) | [Wechat 小程序](https://www.zhangpeng.fun/s/liuyan) | [Bilibili B站](https://www.zhangpeng.fun/s/liuyan) | [Douyin 抖音](https://www.zhangpeng.fun/s/liuyan)。
+> [个人博客](https://www.zhangpeng.fun/) | [QQ 交流群](https://jq.qq.com/?_wv=1027&k=5VyKjuK) | [Wechat 小程序](https://www.zhangpeng.fun/s/liuyan) | [Bilibili B站](https://www.zhangpeng.fun/s/liuyan) | [Douyin 抖音](https://www.zhangpeng.fun/s/liuyan)。
 <p align="center">
 <a href="https://www.zhangpeng.fun/" target="_blank">
 	<img src="https://github.com/zhangpengpeng69/ZPeng-s-Blog/blob/master/images/readme/timg.jpg" width="100"/>
@@ -55,20 +55,42 @@
 * [本博客微信小程序正式上线](myblog/本博客微信小程序正式上线.md)
 
 ## java
-
+* [分布式锁](java/分布式锁.md)
+* [爬虫](java/爬虫.md)
 ## 前端
-
+* [愿逝者安息，让全站黑白！](前端/愿逝者安息，让全站黑白！.md)
 ## 后端
-
+* [Dubbo](后端/Dubbo.md)
+* [Mybatis 原理分析](后端/Mybatis 原理分析.md)
+* [Redis 命令](后端/Redis 命令.md)
+* [Redis](后端/Redis.md)
+* [Redis集群实现](后端/Redis集群实现.md)
+* [SPRING 框架MVC模块进阶](后端/SPRING 框架MVC模块进阶.md)
+* [SPRING 框架核心进阶](后端/SPRING 框架核心进阶.md)
+* [SSM框架综合案例实现](后端/SSM框架综合案例实现.md)
+* [SpringCloud、RabbitMQ、Solr、Docker、Kubernetes](后端/SpringCloud、RabbitMQ、Solr、Docker、Kubernetes.md)
+* [Zookeeper](后端/Zookeeper.md)
 ## 娱乐分享
-
+* [Chrome 插件推荐](娱乐分享/Chrome 插件推荐.md)
+* [wlop画的画真的超级好看呀](娱乐分享/wlop画的画真的超级好看呀.md)
+* [喜欢收集图片的小伙伴点进来（artstation+pixiv）](娱乐分享/喜欢收集图片的小伙伴点进来（artstation+pixiv）.md)
+* [软件工具推荐](娱乐分享/软件工具推荐.md)
 ## 工具
-
+* [Nginx相关知识](工具/Nginx相关知识.md)
+* [lombok插件](工具/lombok插件.md)
+* [小工具](工具/小工具.md)
 ## 数据库
-
+* [Sql语句](数据库/Sql语句.md)
 ## 算法
-
+* [内排序](算法/内排序.md)
+* [数据结构](算法/数据结构.md)
 ## 面试题
+* [Github上那些Java面试、学习相关仓库](面试题/Github上那些Java面试、学习相关仓库.md)
+* [github仓库--JavaGuide](面试题/github仓库--JavaGuide.md)
+* [github仓库-CS-Notes](面试题/github仓库-CS-Notes.md)
+* [java基础面试题](面试题/java基础面试题.md)
+* [面试题目 web](面试题/面试题目 web.md)
+* [面试题目 项目](面试题/面试题目 项目.md)
 
 
 
