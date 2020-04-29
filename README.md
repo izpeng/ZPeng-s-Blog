@@ -64,7 +64,7 @@
 ## 后端
 * [Dubbo](后端/Dubbo.md)
 * [Mybatis 原理分析](后端/Mybatis原理分析.md)
-* [Redis 命令](后端/Redis 命令.md)
+* [Redis 命令](后端/Redis命令.md)
 * [Redis](后端/Redis.md)
 * [Redis集群实现](后端/Redis集群实现.md)
 * [SPRING 框架MVC模块进阶](后端/SPRING框架MVC模块进阶.md)
