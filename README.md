@@ -77,6 +77,7 @@
 * [wlop画的画真的超级好看呀](娱乐分享/wlop画的画真的超级好看呀.md)
 * [喜欢收集图片的小伙伴点进来（artstation+pixiv）](娱乐分享/喜欢收集图片的小伙伴点进来（artstation+pixiv）.md)
 * [软件工具推荐](娱乐分享/软件工具推荐.md)
+* [hexo+github部署自己的静态博客](娱乐分享/hexo+github部署自己的静态博客.md)
 ## 工具
 * [Nginx相关知识](工具/Nginx相关知识.md)
 * [lombok插件](工具/lombok插件.md)
