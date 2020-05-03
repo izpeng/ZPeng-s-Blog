@@ -83,6 +83,9 @@
 * [lombok插件](工具/lombok插件.md)
 * [小工具](工具/小工具.md)
 * [命令行录制工具asciinema](工具/命令行录制工具asciinema.md)
+* [maven安装与配置idea配置maven](工具/maven安装与配置idea配置maven.md)
+* [java-jdk安装与配置idea配置jdk](工具/java-jdk安装与配置idea配置jdk.md)
+* [idea安装与破解](工具/idea安装与破解.md)
 ## 数据库
 * [Sql语句](数据库/Sql语句.md)
 ## 算法
