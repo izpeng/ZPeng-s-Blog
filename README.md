@@ -61,6 +61,7 @@
 * [愿逝者安息，让全站黑白！](前端/愿逝者安息，让全站黑白！.md)
 * [github部署静态网页](前端/github部署静态网页.md)
 * [入门three.js](前端/入门three.js.md)
+* [vuepress+github部署自己的静态博客](前端/vuepress+github部署自己的静态博客.md)
 ## 后端
 * [Dubbo](后端/Dubbo.md)
 * [Mybatis 原理分析](后端/Mybatis原理分析.md)
